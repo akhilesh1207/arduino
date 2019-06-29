@@ -22,7 +22,6 @@
     "lodash": "^4.17.11",
     "mssql": "^4.1.0",
     "node-geocoder": "^3.22.0",
-    "node-windows": "^0.1.14",
     "nodemailer": "^2.7.2",
     "tedious": "^2.6.4"
   }
