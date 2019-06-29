@@ -1,5 +1,5 @@
 before_script:
-    - npm install;node test;
+    - npm install;
 language: node_js
 env:
     - PORT=7878
