@@ -1,0 +1,7 @@
+before_script:
+    - npm install;node test;
+language: node_js
+env:
+    - PORT=7878
+node_js:
+    - "10.16.0"
