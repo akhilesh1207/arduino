@@ -18,7 +18,7 @@
     "ejs": "^2.6.1",
     "email-templates": "^2.7.1",
     "express": "^4.16.3",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "mssql": "^4.1.0",
     "node-geocoder": "^3.22.0",
